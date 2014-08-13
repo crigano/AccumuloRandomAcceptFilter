@@ -1,4 +1,4 @@
-com.sample.random
+package accumuloRandomAcceptFilter
 
 import java.io.IOException;
 import java.util.Map;
